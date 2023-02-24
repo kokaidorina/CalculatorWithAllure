@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Feb 24 16:35:20 GMT 2023","Fri Feb 24 16:35:20 GMT 2023","19","","CalculatorTest","","CalculatorTest","testAddWithNeg","testAddWithNeg()","Description related to testAdd test"
+"passed","Fri Feb 24 16:35:20 GMT 2023","Fri Feb 24 16:35:20 GMT 2023","1","","CalculatorTest","","CalculatorTest","testAdd","testAdd()","Description related to testAdd test"
